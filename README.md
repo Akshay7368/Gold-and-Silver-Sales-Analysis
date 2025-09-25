@@ -1,7 +1,7 @@
 # 📊 Gold & Silver Price Trend Analysis (2001–2024) – Power BI Project  
 
 ## 📌 Project Overview  
-This project analyzes the **historical price trends of Gold and Silver (2001–2024)** and their relationship with **USD–INR exchange rates**. Using **Power BI**, I built dashboards to uncover insights about market behavior, global events, and long-term investment trends.  
+This project analyzes the **historical price trends of Gold and Silver (2001–2024)** and their relationship. Using **Power BI**, I built dashboards to uncover insights about market behavior, global events, and long-term investment trends.  
 
 The analysis focuses on **how global crises, currency fluctuations, and economic events impact commodity prices**, and demonstrates how data storytelling can explain the **“WHY” behind numbers**.  
 
@@ -17,7 +17,7 @@ The analysis focuses on **how global crises, currency fluctuations, and economic
 ## 📂 Project Workflow  
 
 1. **Data Collection**  
-   - Extracted historical data for Gold (₹ per 10g), Silver (₹ per kg), and USD–INR (exchange rate) from **2001 to 2024**.  
+   - Extracted historical data for Gold (₹ per 10g), Silver (₹ per kg) from **2001 to 2024**.  
 
 2. **Data Preparation**  
    - Cleaned and structured datasets.  
@@ -25,7 +25,7 @@ The analysis focuses on **how global crises, currency fluctuations, and economic
    - Created a **Date Table** for time intelligence calculations.  
 
 3. **Data Modeling**  
-   - Linked Gold, Silver, and USD tables using **Year** as a key.  
+   - Linked Gold, Silver tables using **Year** as a key.  
    - Built calculated columns and DAX measures for analysis.  
 
 4. **Analysis & DAX Measures**  

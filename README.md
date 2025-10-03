@@ -92,6 +92,11 @@ The analysis focuses on **how global crises, currency fluctuations, and economic
 
 ---
 
+## 🔗 Live Dashboard
+[View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTc1NTVmYjYtNjViNC00NDQ1LTliZmEtYTk1ZjZiOGY1NWEzIiwidCI6IjQyYzJjNGE0LTcyMTEtNGEwNC1hNTk4LWEyN2Q1YWIzMjY4MSJ9)
+
+---
+
 ## 📌 Author  
 👤 **Akshay Kumar S**  
 - Aspiring **Data Analyst** | SQL | Power BI | Python | Excel  
